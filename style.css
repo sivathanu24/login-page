@@ -56,7 +56,7 @@ input{
     background: transparent;
     color: white;
     border-bottom: 1px solid rgba(255,255,255,0.6);
-    opacity: .8;
+    opacity: .8; 
 }
 button{
     width: 50%;
@@ -120,4 +120,9 @@ a{
 #hey{
     font-size: smaller;
     color: rgb(78, 224, 11);
+}
+
+#new{
+    font-size: 18px;
+    color:#BDEDCC
 }
